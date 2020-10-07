@@ -1,0 +1,15 @@
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\bin\Debug\UI.exe.config
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\bin\Debug\UI.exe
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\bin\Debug\UI.pdb
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\bin\Debug\Dominio.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\bin\Debug\Dominio.pdb
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.AgregarBalanceUserControl.resources
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.ExtraerMontoUserControl.resources
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.VentanaPrincipal.resources
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.exe
+C:\Users\mariosouto\source\repos\EjemploTDD0510\UI\obj\Debug\UI.pdb

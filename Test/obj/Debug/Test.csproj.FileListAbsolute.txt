@@ -1,0 +1,16 @@
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Test.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Test.pdb
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Dominio.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Dominio.pdb
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\obj\Debug\Test.dll
+C:\Users\mariosouto\source\repos\EjemploTDD0510\Test\obj\Debug\Test.pdb
